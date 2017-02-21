@@ -1,0 +1,2 @@
+# gitStory
+studying git
